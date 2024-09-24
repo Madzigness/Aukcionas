@@ -1,11 +1,16 @@
 # Aukcionas
 Repository for storing Lab work of module Saityno taikomųjų programų projektavimas (T120B165)
+
 1	Reikalavimai laboratoriniam darbui:
+
 1.1.	Projekto pavadinimas:
  Pavadinimas: Aukcionas
+ 
 1.2.	Sprendžiamos problemos aprašymas:
+
 1.2.1.	Sistemos paskirtis; 
 Sistema yra skirta naudotojams pateikti arba nupirkti daiktus svetainėje kuri atlieka gyvo aukciono funkcija
+
 1.2.2.	Funkciniai reikalavimai;
 Kad sistema veiktų turi būti išpildyti šie reikalavimai:
 •	bent 3 taikomosios srities objektai tarpusavyje susieti prasminiu ir hierarchiniu ryšiu: Mano Sistemos atvejų tai bus: Aukcionas-Daiktas-Komentaras
