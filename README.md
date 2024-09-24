@@ -1,2 +1,2 @@
 # Aukcionas
-Repository for storing Lab work of module Programų sistemų testavimas (T120B162)
+Repository for storing Lab work of module Saityno taikomųjų programų projektavimas (T120B165)
